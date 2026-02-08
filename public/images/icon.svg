@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: visioncortex VTracer 0.6.4 -->
+
+<svg
+   version="1.1"
+   width="1036"
+   height="1075.5"
+   id="svg3"
+   xml:space="preserve"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"><defs
+     id="defs3" /><g
+     id="g5"
+     transform="translate(0,39.5)"><path
+       style="display:inline;fill:#afec8f;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       d="M 518,233 751,349 983.5,232.5 518,0 52.5,232.5 285,349 Z"
+       id="path3" /><path
+       style="display:inline;fill:#98affd;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       d="M 751,349 V 634.5 L 518,751 v 285 L 983.5,803.5 v -571 z"
+       id="path4" /><path
+       style="display:inline;fill:#fe8ec1;fill-opacity:1;fill-rule:nonzero;stroke:none;stroke-opacity:1"
+       d="M 285,349 V 634.5 L 518,751 v 285 L 52.5,803.5 v -571 z"
+       id="path5" /></g></svg>
